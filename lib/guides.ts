@@ -11,6 +11,7 @@ import { guide as breathableSheetsGuide } from "@/content/guides/best-breathable
 import { guide as coolingPillowcaseGuide } from "@/content/guides/best-pillowcases-for-cooler-sleep";
 import { guide as coolingPillowGuide } from "@/content/guides/best-cooling-pillows-for-hot-sleepers";
 import { guide as humidityGuide } from "@/content/guides/best-humidity-level-for-sleeping-comfortably";
+import { guide as airPurifierGuide } from "@/content/guides/best-air-purifiers-for-better-sleep";
 
 export type Guide = {
   slug: string;
@@ -32,6 +33,7 @@ export const guides: Guide[] = [
   coolingPillowcaseGuide,
   coolingPillowGuide,
   humidityGuide,
+  airPurifierGuide,
 ];
 
 export function getAllGuides() {

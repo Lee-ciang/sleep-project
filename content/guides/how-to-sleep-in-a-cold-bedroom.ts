@@ -34,9 +34,9 @@ Layered bedding may help improve comfort in a colder room.
 Popular options include:
 
 - Heavier blankets
-- Breathable layered sheets
+- [Breathable layered sheets](/guides/best-breathable-sheets-for-better-sleep)
 - Warm sleepwear
-- Comfortable pillows
+- [Comfortable pillows](/guides/best-cooling-pillows-for-hot-sleepers)
 - Soft bedding materials
 
 Using multiple lightweight layers may feel more flexible and comfortable than using one very heavy blanket.
@@ -47,7 +47,7 @@ You may improve bedroom comfort by:
 
 - Closing windows during cold weather
 - Reducing drafts around doors
-- Using balanced humidity
+- Using [balanced humidity](/guides/best-humidity-level-for-sleeping-comfortably)
 - Rearranging furniture away from cold walls
 - Using thicker curtains
 

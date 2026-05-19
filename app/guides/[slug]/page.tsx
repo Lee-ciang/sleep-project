@@ -100,6 +100,14 @@ export default async function GuidePage({ params }: GuidePageProps) {
         {children}
       </ul>
     ),
+        a: ({ href, children }) => (
+      <Link
+        href={href || "#"}
+        className="font-medium text-zinc-900 underline decoration-zinc-300 underline-offset-4 transition hover:decoration-zinc-900"
+      >
+        {children}
+      </Link>
+    ),
   }}
 >
   {guide.content}

@@ -7,6 +7,20 @@ export default function GuidesPage() {
   return (
     <main className="mx-auto max-w-5xl px-6 py-20">
       <div className="max-w-2xl">
+          <nav className="mb-8 flex items-center gap-2 text-sm text-zinc-500">
+    <a
+      href="/"
+      className="rounded-md px-2 py-1 transition hover:bg-zinc-100 hover:text-zinc-900"
+    >
+      Home
+    </a>
+
+    <span>/</span>
+
+    <span className="font-medium text-zinc-900">
+      Sleep Guides
+    </span>
+  </nav>
         <h1 className="text-5xl font-bold tracking-tight">
           Sleep Guides
         </h1>

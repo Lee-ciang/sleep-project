@@ -1,6 +1,9 @@
 import { guide as bedroomTemperatureGuide } from "@/content/guides/best-bedroom-temperature-for-sleep";
 
 import { guide as naturalSleepGuide } from "@/content/guides/how-to-sleep-better-naturally";
+import { guide as darkerBedroomGuide } from "@/content/guides/how-to-make-bedroom-darker-for-sleep";
+import { guide as blackoutCurtainsGuide } from "@/content/guides/best-blackout-curtains-for-sleep";
+import { guide as sleepMaskGuide } from "@/content/guides/best-sleep-masks-for-side-sleepers";
 
 
 export type Guide = {
@@ -13,6 +16,9 @@ export type Guide = {
 export const guides: Guide[] = [
   bedroomTemperatureGuide,
   naturalSleepGuide,
+  darkerBedroomGuide,
+  blackoutCurtainsGuide,
+  sleepMaskGuide,
 ];
 
 export function getAllGuides() {

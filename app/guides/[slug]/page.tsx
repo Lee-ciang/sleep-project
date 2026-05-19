@@ -45,7 +45,29 @@ export default async function GuidePage({ params }: GuidePageProps) {
 
   return (
     <main className="mx-auto max-w-3xl px-6 py-20">
-     
+     <nav className="mb-6 flex items-center gap-2 text-sm text-zinc-500">
+  <a
+    href="/"
+    className="transition hover:text-zinc-900 hover:underline"
+  >
+    Home
+  </a>
+
+  <span>/</span>
+
+  <a
+    href="/guides"
+    className="transition hover:text-zinc-900 hover:underline"
+  >
+    Sleep Guides
+  </a>
+
+  <span>/</span>
+
+  <span className="text-zinc-900">
+    {guide.title}
+  </span>
+</nav>
 
       <h1 className="mt-4 text-5xl font-bold tracking-tight">
         {guide.title}

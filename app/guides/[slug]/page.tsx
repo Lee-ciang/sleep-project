@@ -50,23 +50,13 @@ export default async function GuidePage({ params }: GuidePageProps) {
       <p className="mt-6 text-lg leading-8 text-zinc-600">
         {guide.description}
       </p>
+      <section className="prose prose-zinc mt-12 max-w-none">
+  <article className="whitespace-pre-wrap text-lg leading-8 text-zinc-700">
+    {guide.content}
+  </article>
+</section>
 
-      <section className="mt-12 space-y-6 text-lg leading-8 text-zinc-700">
-        <p>
-          This guide focuses on practical, comfort-oriented ways to improve your
-          sleep environment and daily sleep routine.
-        </p>
-
-        <p>
-          Sleep quality is influenced by many everyday factors, including light,
-          noise, temperature, bedding comfort, and evening habits.
-        </p>
-
-        <p>
-          The goal is not to diagnose or treat medical sleep problems, but to
-          help you build a more comfortable and consistent sleep setup.
-        </p>
-      </section>
+      
     </main>
   );
 }

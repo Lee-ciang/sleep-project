@@ -6,6 +6,7 @@ import { guide as blackoutCurtainsGuide } from "@/content/guides/best-blackout-c
 import { guide as sleepMaskGuide } from "@/content/guides/best-sleep-masks-for-side-sleepers";
 import { guide as whiteNoiseGuide } from "@/content/guides/best-white-noise-machines-for-sleep";
 import { guide as coolingBlanketGuide } from "@/content/guides/best-cooling-blankets-for-hot-sleepers";
+import { guide as bedroomFanGuide } from "@/content/guides/best-fans-for-sleeping-comfortably";
 
 export type Guide = {
   slug: string;
@@ -22,6 +23,7 @@ export const guides: Guide[] = [
   sleepMaskGuide,
   whiteNoiseGuide,
   coolingBlanketGuide,
+  bedroomFanGuide,
 ];
 
 export function getAllGuides() {

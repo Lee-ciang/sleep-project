@@ -35,9 +35,9 @@ export async function generateMetadata({ params }: GuidePageProps) {
 export default async function GuidePage({ params }: GuidePageProps) {
   const { slug } = await params;
   const guide = getGuideBySlug(slug);
-  const relatedGuides = getAllGuides().filter(
-  (relatedGuide) => relatedGuide.slug !== slug
-);
+  const relatedGuides = getAllGuides()
+  .filter((relatedGuide) => relatedGuide.slug !== slug)
+  .slice(0, 4);
 
   if (!guide) {
     notFound();

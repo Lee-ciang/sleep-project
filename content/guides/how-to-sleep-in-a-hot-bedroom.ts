@@ -47,10 +47,10 @@ Cooling-focused sleep products may help improve comfort in warm bedrooms.
 
 Popular options include:
 
-- Cooling blankets
-- Breathable sheets
-- Cooling pillows
-- Cooling pillowcases
+- [Cooling blankets](/guides/best-cooling-blankets-for-hot-sleepers)
+- [Breathable sheets](/guides/best-breathable-sheets-for-better-sleep)
+- [Cooling pillows](/guides/best-cooling-pillows-for-hot-sleepers)
+- [Cooling pillowcases](/guides/best-pillowcases-for-cooler-sleep)
 - Lightweight sleepwear
 
 These products are often designed to reduce heat retention and improve airflow.

@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { getAllGuides, getGuideBySlug } from "@/lib/guides";
 import ReactMarkdown from "react-markdown";
 import { notFound } from "next/navigation";
@@ -34,6 +35,9 @@ export async function generateMetadata({ params }: GuidePageProps) {
 export default async function GuidePage({ params }: GuidePageProps) {
   const { slug } = await params;
   const guide = getGuideBySlug(slug);
+  const relatedGuides = getAllGuides().filter(
+  (relatedGuide) => relatedGuide.slug !== slug
+);
 
   if (!guide) {
     notFound();
@@ -80,7 +84,31 @@ export default async function GuidePage({ params }: GuidePageProps) {
 </ReactMarkdown>
   </article>
 </section>
+{relatedGuides.length > 0 && (
+  <section className="mt-20 border-t border-zinc-200 pt-12">
+    <h2 className="text-3xl font-bold tracking-tight">
+      More Sleep Guides
+    </h2>
 
+    <div className="mt-8 grid gap-6 md:grid-cols-2">
+      {relatedGuides.map((relatedGuide) => (
+        <Link
+          key={relatedGuide.slug}
+          href={`/guides/${relatedGuide.slug}`}
+          className="rounded-2xl border border-zinc-200 p-6 transition hover:border-zinc-400"
+        >
+          <h3 className="text-2xl font-semibold tracking-tight">
+            {relatedGuide.title}
+          </h3>
+
+          <p className="mt-3 text-zinc-600">
+            {relatedGuide.description}
+          </p>
+        </Link>
+      ))}
+    </div>
+  </section>
+)}
       
     </main>
   );

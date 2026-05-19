@@ -1,5 +1,8 @@
 import { guide as bedroomTemperatureGuide } from "@/content/guides/best-bedroom-temperature-for-sleep";
 
+import { guide as naturalSleepGuide } from "@/content/guides/how-to-sleep-better-naturally";
+
+
 export type Guide = {
   slug: string;
   title: string;
@@ -9,6 +12,7 @@ export type Guide = {
 
 export const guides: Guide[] = [
   bedroomTemperatureGuide,
+  naturalSleepGuide,
 ];
 
 export function getAllGuides() {

@@ -1,4 +1,9 @@
+import Link from "next/link";
+import { getAllGuides } from "@/lib/guides";
+
 export default function Home() {
+  const guides = getAllGuides();
+
   return (
     <main className="min-h-screen bg-white text-zinc-900">
       <section className="mx-auto flex max-w-5xl flex-col items-center px-6 py-24 text-center">
@@ -13,51 +18,77 @@ export default function Home() {
         </p>
 
         <div className="mt-10 flex flex-wrap justify-center gap-4">
-          <a
+          <Link
             href="/guides"
             className="rounded-full bg-black px-6 py-3 text-white transition hover:bg-zinc-800"
           >
             Explore Sleep Guides
-          </a>
+          </Link>
 
-          <a
+          <Link
             href="/best"
             className="rounded-full border border-zinc-300 px-6 py-3 transition hover:bg-zinc-100"
           >
             Best Sleep Products
-          </a>
+          </Link>
         </div>
       </section>
 
-      <section className="mx-auto grid max-w-6xl gap-6 px-6 pb-24 md:grid-cols-3">
+      <section className="mx-auto grid max-w-6xl gap-6 px-6 pb-16 md:grid-cols-3">
         <div className="rounded-2xl border border-zinc-200 p-6">
-          <h2 className="text-xl font-semibold">
-            Bedroom Optimization
-          </h2>
-
+          <h2 className="text-xl font-semibold">Bedroom Optimization</h2>
           <p className="mt-3 text-zinc-600">
             Improve lighting, temperature, noise control, and sleep comfort.
           </p>
         </div>
 
         <div className="rounded-2xl border border-zinc-200 p-6">
-          <h2 className="text-xl font-semibold">
-            Sleep Product Reviews
-          </h2>
-
+          <h2 className="text-xl font-semibold">Sleep Product Reviews</h2>
           <p className="mt-3 text-zinc-600">
             Discover pillows, sleep masks, blackout curtains, and more.
           </p>
         </div>
 
         <div className="rounded-2xl border border-zinc-200 p-6">
-          <h2 className="text-xl font-semibold">
-            Better Sleep Habits
-          </h2>
-
+          <h2 className="text-xl font-semibold">Better Sleep Habits</h2>
           <p className="mt-3 text-zinc-600">
             Build healthier nighttime routines and sustainable sleep habits.
           </p>
+        </div>
+      </section>
+
+      <section className="mx-auto max-w-6xl px-6 pb-24">
+        <div className="flex items-end justify-between gap-6">
+          <div>
+            <h2 className="text-3xl font-bold tracking-tight">
+              Latest Sleep Guides
+            </h2>
+            <p className="mt-3 text-zinc-600">
+              Start with practical guides for improving your sleep environment.
+            </p>
+          </div>
+
+          <Link href="/guides" className="text-sm font-medium underline">
+            View all guides
+          </Link>
+        </div>
+
+        <div className="mt-8 grid gap-6 md:grid-cols-2">
+          {guides.map((guide) => (
+            <Link
+              key={guide.slug}
+              href={`/guides/${guide.slug}`}
+              className="rounded-2xl border border-zinc-200 p-6 transition hover:border-zinc-400"
+            >
+              <h3 className="text-2xl font-semibold tracking-tight">
+                {guide.title}
+              </h3>
+
+              <p className="mt-3 text-zinc-600">
+                {guide.description}
+              </p>
+            </Link>
+          ))}
         </div>
       </section>
     </main>

@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  verification: {
+  google: "XjoiYPpNdTrSD7_K7mYmA2_6RtlOqMTqGnCPOVJhGxc",
+},
   title: {
     default: "Sleep Project",
     template: "%s | Sleep Project",

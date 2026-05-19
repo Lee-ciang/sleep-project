@@ -67,4 +67,11 @@ Sleeping in a cold bedroom can feel uncomfortable, but small adjustments may hel
 
 Combining comfortable bedding, balanced humidity, and better bedroom setup may help improve nighttime comfort over time.
 `,
+  keywords: [
+    "cold bedroom",
+    "temperature",
+    "bedding",
+    "humidity",
+    "sleep comfort",
+  ],
 };

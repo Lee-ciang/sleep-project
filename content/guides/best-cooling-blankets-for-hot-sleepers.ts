@@ -67,4 +67,11 @@ Cooling blankets can be a useful solution for hot sleepers who want a lighter an
 
 Choosing breathable materials and improving bedroom airflow may help create a cooler and more relaxing sleep environment over time.
 `,
+  keywords: [
+    "cooling",
+    "hot bedroom",
+    "temperature",
+    "bedding",
+    "airflow",
+  ],
 };

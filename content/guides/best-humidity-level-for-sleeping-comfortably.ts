@@ -74,4 +74,11 @@ Bedroom humidity is an often overlooked part of sleep comfort.
 
 Maintaining balanced indoor humidity may help support a more comfortable and relaxing sleep environment over time.
 `,
+  keywords: [
+    "humidity",
+    "bedroom environment",
+    "air quality",
+    "hot bedroom",
+    "sleep comfort",
+  ],
 };

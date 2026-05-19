@@ -67,4 +67,11 @@ A darker bedroom is one of the simplest ways to improve sleep comfort naturally.
 
 Blackout curtains are often a practical long-term investment for building a better sleep environment.
 `,
+  keywords: [
+    "blackout curtains",
+    "dark bedroom",
+    "light blocking",
+    "bedroom environment",
+    "sleep comfort",
+  ],
 };

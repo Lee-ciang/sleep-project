@@ -64,4 +64,11 @@ Earplugs can help reduce nighttime distractions and improve overall bedroom comf
 
 Choosing comfortable earplugs and reducing environmental noise may help support more relaxing sleep over time.
 `,
+  keywords: [
+    "earplugs",
+    "bedroom noise",
+    "noisy neighbors",
+    "sound environment",
+    "sleep comfort",
+  ],
 };

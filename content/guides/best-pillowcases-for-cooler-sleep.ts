@@ -66,4 +66,11 @@ Cooling-friendly pillowcases can help improve nighttime comfort for people who s
 
 Choosing breathable fabrics and improving airflow around the sleeping area may support a cooler and more comfortable sleep experience over time.
 `,
+  keywords: [
+    "cooling pillowcases",
+    "bedding",
+    "cooling",
+    "hot bedroom",
+    "sleep comfort",
+  ],
 };

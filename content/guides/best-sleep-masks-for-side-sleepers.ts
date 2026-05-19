@@ -64,4 +64,11 @@ Sleep masks can be an excellent solution for side sleepers who struggle with lig
 
 Choosing the right materials, fit, and design can help create a darker and more comfortable sleep experience.
 `,
+  keywords: [
+    "sleep mask",
+    "dark bedroom",
+    "light blocking",
+    "side sleepers",
+    "sleep comfort",
+  ],
 };

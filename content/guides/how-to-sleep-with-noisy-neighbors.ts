@@ -65,4 +65,11 @@ Sleeping with noisy neighbors can be frustrating, but small bedroom adjustments 
 
 Creating a quieter and more relaxing sleep environment may support better rest over time.
 `,
+  keywords: [
+    "noisy neighbors",
+    "bedroom noise",
+    "white noise",
+    "earplugs",
+    "sleep comfort",
+  ],
 };

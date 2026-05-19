@@ -47,4 +47,11 @@ Here are simple ways to improve your sleep environment:
 
 Bedroom temperature is a foundational part of sleep optimization. Even small temperature improvements can significantly improve sleep quality over time.
 `,
+  keywords: [
+    "temperature",
+    "bedroom environment",
+    "hot bedroom",
+    "cold bedroom",
+    "sleep comfort",
+  ],
 };

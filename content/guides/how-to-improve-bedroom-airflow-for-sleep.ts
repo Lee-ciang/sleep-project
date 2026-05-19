@@ -67,4 +67,11 @@ Bedroom airflow plays an important role in sleep comfort and overall room atmosp
 
 Improving airflow and reducing stuffy air may help create a cooler and more relaxing sleep environment over time.
 `,
+  keywords: [
+    "airflow",
+    "bedroom environment",
+    "fans",
+    "air quality",
+    "sleep comfort",
+  ],
 };

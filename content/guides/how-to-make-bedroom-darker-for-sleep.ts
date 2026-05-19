@@ -82,4 +82,11 @@ A darker bedroom is one of the simplest ways to improve sleep comfort naturally.
 
 Small lighting improvements can support better relaxation and a more sleep-friendly environment over time.
 `,
+  keywords: [
+    "dark bedroom",
+    "blackout curtains",
+    "sleep mask",
+    "bedroom environment",
+    "sleep comfort",
+  ],
 };

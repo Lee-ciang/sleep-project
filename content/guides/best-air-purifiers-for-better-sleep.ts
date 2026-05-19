@@ -65,4 +65,11 @@ Air purifiers can help improve bedroom comfort by supporting cleaner indoor air 
 
 Choosing a quiet and appropriately sized air purifier may help create a calmer and more relaxing sleep environment over time.
 `,
+  keywords: [
+    "air purifier",
+    "air quality",
+    "bedroom environment",
+    "allergens",
+    "sleep comfort",
+  ],
 };

@@ -65,4 +65,11 @@ Reducing bedroom noise may improve overall nighttime comfort and help create a m
 
 Small adjustments to sound, airflow, and bedroom setup may support more relaxing sleep over time.
 `,
+  keywords: [
+    "bedroom noise",
+    "white noise",
+    "earplugs",
+    "noisy neighbors",
+    "sleep comfort",
+  ],
 };

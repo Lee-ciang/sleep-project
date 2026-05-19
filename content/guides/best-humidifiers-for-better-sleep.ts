@@ -65,4 +65,11 @@ Humidifiers can help improve bedroom comfort by reducing dryness and supporting 
 
 Choosing a quiet and appropriately sized humidifier may help create a more relaxing sleep environment over time.
 `,
+  keywords: [
+    "humidifier",
+    "humidity",
+    "air quality",
+    "bedroom environment",
+    "sleep comfort",
+  ],
 };

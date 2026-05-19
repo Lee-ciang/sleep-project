@@ -25,6 +25,7 @@ export type Guide = {
   title: string;
   description: string;
   content: string;
+  keywords: string[];
 };
 
 export const guides: Guide[] = [

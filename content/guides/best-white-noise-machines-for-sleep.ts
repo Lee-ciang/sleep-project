@@ -65,4 +65,11 @@ White noise machines can be a useful addition to a sleep-friendly bedroom enviro
 
 Reducing nighttime distractions and creating a calmer atmosphere may help improve overall sleep comfort over time.
 `,
+  keywords: [
+    "white noise",
+    "bedroom noise",
+    "noisy neighbors",
+    "sound environment",
+    "sleep comfort",
+  ],
 };

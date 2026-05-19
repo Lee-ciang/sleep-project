@@ -67,4 +67,11 @@ Fans can be a simple and effective way to improve bedroom comfort and airflow du
 
 Choosing a quiet and well-designed fan may help support a cooler and more relaxing sleep environment over time.
 `,
+  keywords: [
+    "fans",
+    "airflow",
+    "hot bedroom",
+    "cooling",
+    "sleep comfort",
+  ],
 };

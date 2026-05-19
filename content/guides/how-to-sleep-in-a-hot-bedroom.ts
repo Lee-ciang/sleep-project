@@ -69,4 +69,11 @@ Sleeping in a hot bedroom can be uncomfortable, but small adjustments may help i
 
 Combining cooling products, better airflow, and improved bedroom setup may help create a cooler and more relaxing sleep environment over time.
 `,
+  keywords: [
+    "hot bedroom",
+    "cooling",
+    "temperature",
+    "airflow",
+    "sleep comfort",
+  ],
 };

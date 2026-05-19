@@ -80,4 +80,11 @@ Better sleep naturally usually comes from consistent habits rather than quick fi
 
 Small improvements to your sleep routine and bedroom environment can create meaningful long-term sleep benefits.
 `,
+  keywords: [
+    "natural sleep",
+    "sleep habits",
+    "bedroom environment",
+    "relaxation",
+    "sleep comfort",
+  ],
 };

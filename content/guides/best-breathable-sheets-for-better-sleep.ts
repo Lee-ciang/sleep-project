@@ -66,4 +66,11 @@ Breathable sheets can improve sleep comfort by helping reduce overheating and im
 
 Choosing lightweight and breathable bedding materials may help support a cooler and more comfortable sleep experience over time.
 `,
+  keywords: [
+    "breathable sheets",
+    "bedding",
+    "cooling",
+    "hot bedroom",
+    "sleep comfort",
+  ],
 };

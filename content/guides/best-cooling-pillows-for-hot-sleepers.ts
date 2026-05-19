@@ -67,4 +67,11 @@ Cooling pillows can be a useful solution for hot sleepers who want better airflo
 
 Choosing breathable materials and improving the overall sleep setup may help support cooler and more relaxing sleep over time.
 `,
+  keywords: [
+    "cooling pillows",
+    "bedding",
+    "cooling",
+    "hot bedroom",
+    "sleep comfort",
+  ],
 };

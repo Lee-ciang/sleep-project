@@ -4,6 +4,10 @@ import { getAllGuides } from "@/lib/guides";
 export default function GuidesPage() {
   const guides = getAllGuides();
 
+const categories = Array.from(
+  new Set(guides.map((guide) => guide.category))
+);
+
   return (
     <main className="mx-auto max-w-5xl px-6 py-20">
       <div className="max-w-2xl">
@@ -82,25 +86,49 @@ export default function GuidesPage() {
           </Link>
         </div>
       </section>
-      <div className="mt-16 grid gap-8 md:grid-cols-2">
-        {guides.map((guide) => (
-          <Link
-            key={guide.slug}
-            href={`/guides/${guide.slug}`}
-            className="rounded-2xl border border-zinc-200 p-8 transition hover:border-zinc-400"
-          >
-            
+      <div className="mt-16 space-y-16">
+  {categories.map((category) => {
+    const categoryGuides = guides.filter(
+      (guide) => guide.category === category
+    );
 
-            <h2 className="mt-4 text-2xl font-semibold tracking-tight">
-              {guide.title}
-            </h2>
+    return (
+      <section key={category}>
+        <div className="flex items-center justify-between gap-4">
+          <h2 className="text-3xl font-bold tracking-tight">
+            {category}
+          </h2>
 
-            <p className="mt-4 text-zinc-600">
-              {guide.description}
-            </p>
-          </Link>
-        ))}
-      </div>
+          <span className="text-sm text-zinc-500">
+            {categoryGuides.length} guides
+          </span>
+        </div>
+
+        <div className="mt-8 grid gap-8 md:grid-cols-2">
+          {categoryGuides.map((guide) => (
+            <Link
+              key={guide.slug}
+              href={`/guides/${guide.slug}`}
+              className="rounded-2xl border border-zinc-200 p-8 transition hover:border-zinc-400"
+            >
+              <h3 className="text-2xl font-semibold tracking-tight">
+                {guide.title}
+              </h3>
+
+              <p className="mt-4 text-zinc-600">
+                {guide.description}
+              </p>
+
+              <p className="mt-4 text-sm text-zinc-500">
+                {guide.readingTime}
+              </p>
+            </Link>
+          ))}
+        </div>
+      </section>
+    );
+  })}
+</div>
     </main>
   );
 }

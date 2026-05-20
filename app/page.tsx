@@ -209,9 +209,15 @@ export default function Home() {
               href={`/guides/${guide.slug}`}
               className="rounded-2xl border border-zinc-200 p-6 transition hover:border-zinc-400"
             >
-              <h3 className="text-2xl font-semibold tracking-tight">
-                {guide.title}
-              </h3>
+              <div className="flex items-center justify-between gap-4">
+  <h3 className="text-2xl font-semibold tracking-tight">
+    {guide.title}
+  </h3>
+
+  <span className="shrink-0 rounded-full bg-zinc-100 px-3 py-1 text-xs font-medium text-zinc-600">
+    Updated
+  </span>
+</div>
 
               <p className="mt-3 text-zinc-600">
                 {guide.description}

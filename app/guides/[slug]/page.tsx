@@ -160,6 +160,46 @@ const relatedGuides = getAllGuides()
     </div>
   </section>
 )}
+<section className="mt-12 rounded-3xl border border-zinc-200 bg-zinc-50 p-8">
+  <h2 className="text-2xl font-bold tracking-tight">
+    Related Sleep Topics
+  </h2>
+
+  <p className="mt-3 text-zinc-600">
+    Explore more sleep environment topics to improve bedroom comfort,
+    reduce disruptions, and build a more relaxing nighttime setup.
+  </p>
+
+  <div className="mt-6 grid gap-3 sm:grid-cols-2">
+    <Link
+      href="/guides/how-to-sleep-in-a-hot-bedroom"
+      className="rounded-2xl bg-white p-4 text-sm font-medium shadow-sm transition hover:shadow-md"
+    >
+      Temperature & Cooling
+    </Link>
+
+    <Link
+      href="/guides/how-to-make-bedroom-darker-for-sleep"
+      className="rounded-2xl bg-white p-4 text-sm font-medium shadow-sm transition hover:shadow-md"
+    >
+      Darkness & Light Control
+    </Link>
+
+    <Link
+      href="/guides/how-to-reduce-bedroom-noise-for-better-sleep"
+      className="rounded-2xl bg-white p-4 text-sm font-medium shadow-sm transition hover:shadow-md"
+    >
+      Noise & Sleep Comfort
+    </Link>
+
+    <Link
+      href="/guides/how-to-improve-bedroom-airflow-for-sleep"
+      className="rounded-2xl bg-white p-4 text-sm font-medium shadow-sm transition hover:shadow-md"
+    >
+      Airflow & Air Quality
+    </Link>
+  </div>
+</section>
       
     </main>
   );

@@ -2,7 +2,7 @@ import Link from "next/link";
 import { getAllGuides } from "@/lib/guides";
 
 export default function Home() {
-  const guides = getAllGuides();
+  const guides = getAllGuides().slice(0, 6);
 
   return (
     <main className="min-h-screen bg-white text-zinc-900">

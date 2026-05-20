@@ -88,4 +88,5 @@ Small improvements to your sleep routine and bedroom environment can create mean
     "sleep comfort",
   ],
     updatedAt: "2026-05-20",
+    readingTime: "4 min read",
 };

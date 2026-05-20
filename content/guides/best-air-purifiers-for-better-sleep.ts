@@ -73,4 +73,5 @@ Choosing a quiet and appropriately sized air purifier may help create a calmer a
     "sleep comfort",
   ],
   updatedAt: "2026-05-20",
+  readingTime: "4 min read",
 };

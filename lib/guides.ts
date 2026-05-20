@@ -27,6 +27,7 @@ export type Guide = {
   content: string;
   keywords: string[];
   updatedAt: string;
+  readingTime: string;
 };
 
 export const guides: Guide[] = [

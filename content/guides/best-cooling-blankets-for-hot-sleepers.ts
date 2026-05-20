@@ -75,4 +75,5 @@ Choosing breathable materials and improving bedroom airflow may help create a co
     "airflow",
   ],
   updatedAt: "2026-05-20",
+  readingTime: "4 min read",
 };

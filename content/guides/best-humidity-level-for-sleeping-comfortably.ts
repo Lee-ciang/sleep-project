@@ -82,4 +82,5 @@ Maintaining balanced indoor humidity may help support a more comfortable and rel
     "sleep comfort",
   ],
   updatedAt: "2026-05-20",
+  readingTime: "4 min read",
 };

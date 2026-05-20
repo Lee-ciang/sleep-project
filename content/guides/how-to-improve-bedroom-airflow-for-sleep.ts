@@ -75,4 +75,5 @@ Improving airflow and reducing stuffy air may help create a cooler and more rela
     "sleep comfort",
   ],
   updatedAt: "2026-05-20",
+  readingTime: "4 min read",
 };

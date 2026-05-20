@@ -77,4 +77,5 @@ Combining cooling products, better airflow, and improved bedroom setup may help 
     "sleep comfort",
   ],
   updatedAt: "2026-05-20",
+  readingTime: "4 min read",
 };

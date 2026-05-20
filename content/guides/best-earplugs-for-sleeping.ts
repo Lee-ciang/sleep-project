@@ -72,4 +72,5 @@ Choosing comfortable earplugs and reducing environmental noise may help support 
     "sleep comfort",
   ],
   updatedAt: "2026-05-20",
+  readingTime: "4 min read",
 };

@@ -210,6 +210,14 @@ export default function Home() {
               <p className="mt-3 text-zinc-600">
                 {guide.description}
               </p>
+              <p className="mt-4 text-sm text-zinc-500">
+  Updated{" "}
+  {new Date(guide.updatedAt).toLocaleDateString("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+  })}
+</p>
             </Link>
           ))}
         </div>

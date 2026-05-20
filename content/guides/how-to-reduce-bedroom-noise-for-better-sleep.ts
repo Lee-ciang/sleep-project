@@ -74,4 +74,5 @@ Small adjustments to sound, airflow, and bedroom setup may support more relaxing
   ],
   updatedAt: "2026-05-20",
   readingTime: "4 min read",
+  category: "Noise & Sound",
 };

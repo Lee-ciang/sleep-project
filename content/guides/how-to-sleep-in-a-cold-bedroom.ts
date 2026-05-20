@@ -76,4 +76,5 @@ Combining comfortable bedding, balanced humidity, and better bedroom setup may h
   ],
   updatedAt: "2026-05-20",
   readingTime: "4 min read",
+  category: "Temperature & Cooling",
 };

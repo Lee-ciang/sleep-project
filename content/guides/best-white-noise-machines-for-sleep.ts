@@ -74,4 +74,5 @@ Reducing nighttime distractions and creating a calmer atmosphere may help improv
   ],
   updatedAt: "2026-05-20",
   readingTime: "4 min read",
+  category: "Noise & Sound",
 };

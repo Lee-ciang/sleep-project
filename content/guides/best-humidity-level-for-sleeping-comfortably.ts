@@ -83,4 +83,5 @@ Maintaining balanced indoor humidity may help support a more comfortable and rel
   ],
   updatedAt: "2026-05-20",
   readingTime: "4 min read",
+  category: "Airflow & Air Quality",
 };

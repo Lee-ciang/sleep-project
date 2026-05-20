@@ -73,4 +73,5 @@ Choosing the right materials, fit, and design can help create a darker and more 
   ],
     updatedAt: "2026-05-20",
     readingTime: "4 min read",
+    category: "Darkness & Light",
 };

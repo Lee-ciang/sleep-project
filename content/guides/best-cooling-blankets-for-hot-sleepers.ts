@@ -76,4 +76,5 @@ Choosing breathable materials and improving bedroom airflow may help create a co
   ],
   updatedAt: "2026-05-20",
   readingTime: "4 min read",
+  category: "Temperature & Cooling",
 };

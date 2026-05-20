@@ -89,4 +89,5 @@ Small improvements to your sleep routine and bedroom environment can create mean
   ],
     updatedAt: "2026-05-20",
     readingTime: "4 min read",
+    category: "Sleep Habits",
 };

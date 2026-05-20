@@ -76,4 +76,5 @@ Blackout curtains are often a practical long-term investment for building a bett
   ],
     updatedAt: "2026-05-20",
     readingTime: "4 min read",
+    category: "Darkness & Light",
 };

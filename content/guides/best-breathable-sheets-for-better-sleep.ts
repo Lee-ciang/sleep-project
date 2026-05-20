@@ -75,4 +75,5 @@ Choosing lightweight and breathable bedding materials may help support a cooler 
   ],
   updatedAt: "2026-05-20",
   readingTime: "4 min read",
+  category: "Bedding & Comfort",
 };

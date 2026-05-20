@@ -76,4 +76,5 @@ Choosing a quiet and well-designed fan may help support a cooler and more relaxi
   ],
   updatedAt: "2026-05-20",
   readingTime: "4 min read",
+  category: "Temperature & Cooling",
 };

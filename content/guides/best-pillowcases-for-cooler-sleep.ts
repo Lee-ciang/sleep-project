@@ -75,4 +75,5 @@ Choosing breathable fabrics and improving airflow around the sleeping area may s
   ],
   updatedAt: "2026-05-20",
   readingTime: "4 min read",
+  category: "Bedding & Comfort",
 };

@@ -74,4 +74,5 @@ Creating a quieter and more relaxing sleep environment may support better rest o
   ],
   updatedAt: "2026-05-20",
   readingTime: "4 min read",
+  category: "Noise & Sound",
 };

@@ -91,4 +91,5 @@ Small lighting improvements can support better relaxation and a more sleep-frien
   ],
     updatedAt: "2026-05-20",
     readingTime: "4 min read",
+    category: "Darkness & Light",
 };

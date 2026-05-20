@@ -76,4 +76,5 @@ Improving airflow and reducing stuffy air may help create a cooler and more rela
   ],
   updatedAt: "2026-05-20",
   readingTime: "4 min read",
+  category: "Airflow & Air Quality",
 };

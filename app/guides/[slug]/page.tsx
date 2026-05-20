@@ -35,13 +35,24 @@ export async function generateMetadata({ params }: GuidePageProps) {
 export default async function GuidePage({ params }: GuidePageProps) {
   const { slug } = await params;
   const guide = getGuideBySlug(slug);
-  const relatedGuides = getAllGuides()
-  .filter((relatedGuide) => relatedGuide.slug !== slug)
-  .slice(0, 4);
-
   if (!guide) {
-    notFound();
-  }
+  notFound();
+}
+
+const relatedGuides = getAllGuides()
+  .filter((relatedGuide) => relatedGuide.slug !== slug)
+  .map((relatedGuide) => {
+    const sharedKeywords = relatedGuide.keywords.filter((keyword) =>
+      guide.keywords.includes(keyword)
+    );
+
+    return {
+      ...relatedGuide,
+      score: sharedKeywords.length,
+    };
+  })
+  .sort((a, b) => b.score - a.score)
+  .slice(0, 4);
 
   return (
     <main className="mx-auto max-w-3xl px-6 py-20">

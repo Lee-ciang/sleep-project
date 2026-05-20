@@ -223,6 +223,8 @@ export default function Home() {
     day: "numeric",
     year: "numeric",
   })}
+  {" • "}
+  {guide.readingTime}
 </p>
             </Link>
           ))}

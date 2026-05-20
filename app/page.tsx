@@ -35,27 +35,87 @@ export default function Home() {
       </section>
 
       <section className="mx-auto grid max-w-6xl gap-6 px-6 pb-16 md:grid-cols-3">
-        <div className="rounded-2xl border border-zinc-200 p-6">
-          <h2 className="text-xl font-semibold">Bedroom Optimization</h2>
-          <p className="mt-3 text-zinc-600">
-            Improve lighting, temperature, noise control, and sleep comfort.
-          </p>
-        </div>
+  <div className="rounded-2xl border border-zinc-200 p-6">
+    <h2 className="text-xl font-semibold">
+      Temperature & Cooling
+    </h2>
 
-        <div className="rounded-2xl border border-zinc-200 p-6">
-          <h2 className="text-xl font-semibold">Sleep Product Reviews</h2>
-          <p className="mt-3 text-zinc-600">
-            Discover pillows, sleep masks, blackout curtains, and more.
-          </p>
-        </div>
+    <p className="mt-3 text-zinc-600">
+      Explore guides about cooling sleep products, bedroom temperature,
+      airflow, and hot sleep environments.
+    </p>
 
-        <div className="rounded-2xl border border-zinc-200 p-6">
-          <h2 className="text-xl font-semibold">Better Sleep Habits</h2>
-          <p className="mt-3 text-zinc-600">
-            Build healthier nighttime routines and sustainable sleep habits.
-          </p>
-        </div>
-      </section>
+    <div className="mt-4 flex flex-col gap-2 text-sm">
+      <Link
+        href="/guides/how-to-sleep-in-a-hot-bedroom"
+        className="underline"
+      >
+        Hot Bedroom Guides
+      </Link>
+
+      <Link
+        href="/guides/best-cooling-blankets-for-hot-sleepers"
+        className="underline"
+      >
+        Cooling Sleep Products
+      </Link>
+    </div>
+  </div>
+
+  <div className="rounded-2xl border border-zinc-200 p-6">
+    <h2 className="text-xl font-semibold">
+      Darkness & Light Control
+    </h2>
+
+    <p className="mt-3 text-zinc-600">
+      Improve bedroom darkness and nighttime comfort with blackout and
+      light-blocking sleep solutions.
+    </p>
+
+    <div className="mt-4 flex flex-col gap-2 text-sm">
+      <Link
+        href="/guides/how-to-make-bedroom-darker-for-sleep"
+        className="underline"
+      >
+        Dark Bedroom Guides
+      </Link>
+
+      <Link
+        href="/guides/best-blackout-curtains-for-sleep"
+        className="underline"
+      >
+        Blackout Products
+      </Link>
+    </div>
+  </div>
+
+  <div className="rounded-2xl border border-zinc-200 p-6">
+    <h2 className="text-xl font-semibold">
+      Noise & Sleep Comfort
+    </h2>
+
+    <p className="mt-3 text-zinc-600">
+      Discover ways to reduce bedroom noise and improve nighttime sleep
+      comfort.
+    </p>
+
+    <div className="mt-4 flex flex-col gap-2 text-sm">
+      <Link
+        href="/guides/how-to-sleep-with-noisy-neighbors"
+        className="underline"
+      >
+        Noise Reduction Guides
+      </Link>
+
+      <Link
+        href="/guides/best-earplugs-for-sleeping"
+        className="underline"
+      >
+        Sleep Noise Products
+      </Link>
+    </div>
+  </div>
+</section>
 
       <section className="mx-auto max-w-6xl px-6 pb-24">
         <div className="flex items-end justify-between gap-6">

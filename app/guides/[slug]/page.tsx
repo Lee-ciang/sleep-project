@@ -80,9 +80,13 @@ const relatedGuides = getAllGuides()
   </span>
 </nav>
 
-      <h1 className="mt-4 text-5xl font-bold tracking-tight">
-        {guide.title}
-      </h1>
+      <div className="inline-flex rounded-full bg-zinc-100 px-4 py-2 text-sm font-medium text-zinc-700">
+  {guide.category}
+</div>
+
+<h1 className="mt-4 text-5xl font-bold tracking-tight">
+  {guide.title}
+</h1>
 
       <p className="mt-6 text-lg leading-8 text-zinc-600">
         {guide.description}

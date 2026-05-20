@@ -71,4 +71,5 @@ Choosing the right materials, fit, and design can help create a darker and more 
     "side sleepers",
     "sleep comfort",
   ],
+    updatedAt: "2026-05-20",
 };

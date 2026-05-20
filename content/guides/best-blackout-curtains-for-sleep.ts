@@ -74,4 +74,5 @@ Blackout curtains are often a practical long-term investment for building a bett
     "bedroom environment",
     "sleep comfort",
   ],
+    updatedAt: "2026-05-20",
 };

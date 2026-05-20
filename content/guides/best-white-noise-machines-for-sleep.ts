@@ -72,4 +72,5 @@ Reducing nighttime distractions and creating a calmer atmosphere may help improv
     "sound environment",
     "sleep comfort",
   ],
+  updatedAt: "2026-05-20",
 };

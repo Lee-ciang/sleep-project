@@ -54,4 +54,5 @@ Bedroom temperature is a foundational part of sleep optimization. Even small tem
     "cold bedroom",
     "sleep comfort",
   ],
+    updatedAt: "2026-05-20",
 };

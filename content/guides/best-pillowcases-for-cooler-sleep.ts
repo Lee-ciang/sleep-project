@@ -73,4 +73,5 @@ Choosing breathable fabrics and improving airflow around the sleeping area may s
     "hot bedroom",
     "sleep comfort",
   ],
+  updatedAt: "2026-05-20",
 };

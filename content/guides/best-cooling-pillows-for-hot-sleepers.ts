@@ -74,4 +74,5 @@ Choosing breathable materials and improving the overall sleep setup may help sup
     "hot bedroom",
     "sleep comfort",
   ],
+  updatedAt: "2026-05-20",
 };

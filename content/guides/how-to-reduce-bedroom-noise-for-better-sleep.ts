@@ -72,4 +72,5 @@ Small adjustments to sound, airflow, and bedroom setup may support more relaxing
     "noisy neighbors",
     "sleep comfort",
   ],
+  updatedAt: "2026-05-20",
 };

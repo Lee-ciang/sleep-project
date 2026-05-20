@@ -73,4 +73,5 @@ Choosing lightweight and breathable bedding materials may help support a cooler 
     "hot bedroom",
     "sleep comfort",
   ],
+  updatedAt: "2026-05-20",
 };

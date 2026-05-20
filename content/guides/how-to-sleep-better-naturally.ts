@@ -87,4 +87,5 @@ Small improvements to your sleep routine and bedroom environment can create mean
     "relaxation",
     "sleep comfort",
   ],
+    updatedAt: "2026-05-20",
 };

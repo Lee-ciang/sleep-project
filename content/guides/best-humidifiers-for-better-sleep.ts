@@ -72,4 +72,5 @@ Choosing a quiet and appropriately sized humidifier may help create a more relax
     "bedroom environment",
     "sleep comfort",
   ],
+  updatedAt: "2026-05-20",
 };

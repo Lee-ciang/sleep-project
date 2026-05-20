@@ -74,4 +74,5 @@ Choosing a quiet and well-designed fan may help support a cooler and more relaxi
     "cooling",
     "sleep comfort",
   ],
+  updatedAt: "2026-05-20",
 };

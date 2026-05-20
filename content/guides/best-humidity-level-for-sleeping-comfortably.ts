@@ -81,4 +81,5 @@ Maintaining balanced indoor humidity may help support a more comfortable and rel
     "hot bedroom",
     "sleep comfort",
   ],
+  updatedAt: "2026-05-20",
 };

@@ -72,4 +72,5 @@ Creating a quieter and more relaxing sleep environment may support better rest o
     "earplugs",
     "sleep comfort",
   ],
+  updatedAt: "2026-05-20",
 };

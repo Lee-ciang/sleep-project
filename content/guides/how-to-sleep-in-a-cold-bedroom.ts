@@ -74,4 +74,5 @@ Combining comfortable bedding, balanced humidity, and better bedroom setup may h
     "humidity",
     "sleep comfort",
   ],
+  updatedAt: "2026-05-20",
 };

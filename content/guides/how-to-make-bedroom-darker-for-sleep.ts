@@ -89,4 +89,5 @@ Small lighting improvements can support better relaxation and a more sleep-frien
     "bedroom environment",
     "sleep comfort",
   ],
+    updatedAt: "2026-05-20",
 };

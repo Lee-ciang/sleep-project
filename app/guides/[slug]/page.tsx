@@ -87,6 +87,9 @@ const relatedGuides = getAllGuides()
       <p className="mt-6 text-lg leading-8 text-zinc-600">
         {guide.description}
       </p>
+      <p className="mt-4 text-sm text-zinc-500">
+  Last updated: {guide.updatedAt}
+</p>
       <section className="mt-12">
   <article className="prose prose-zinc max-w-none">
     <ReactMarkdown

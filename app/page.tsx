@@ -116,6 +116,69 @@ export default function Home() {
     </div>
   </div>
 </section>
+<section className="mx-auto max-w-6xl px-6 pb-16">
+  <div className="rounded-3xl border border-zinc-200 bg-zinc-50 p-8 md:p-10">
+    <h2 className="text-3xl font-bold tracking-tight">
+      Featured Sleep Topics
+    </h2>
+
+    <p className="mt-4 max-w-3xl text-lg leading-8 text-zinc-600">
+      Build a better sleep environment by focusing on the bedroom factors that
+      often affect nighttime comfort: temperature, light, noise, airflow, and
+      bedding.
+    </p>
+
+    <div className="mt-8 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+      <Link
+        href="/guides/best-bedroom-temperature-for-sleep"
+        className="rounded-2xl bg-white p-5 shadow-sm transition hover:shadow-md"
+      >
+        <h3 className="font-semibold">
+          Bedroom Temperature
+        </h3>
+        <p className="mt-2 text-sm leading-6 text-zinc-600">
+          Learn how warmer and cooler rooms can affect sleep comfort.
+        </p>
+      </Link>
+
+      <Link
+        href="/guides/how-to-make-bedroom-darker-for-sleep"
+        className="rounded-2xl bg-white p-5 shadow-sm transition hover:shadow-md"
+      >
+        <h3 className="font-semibold">
+          Bedroom Darkness
+        </h3>
+        <p className="mt-2 text-sm leading-6 text-zinc-600">
+          Reduce unwanted light and create a calmer nighttime setup.
+        </p>
+      </Link>
+
+      <Link
+        href="/guides/how-to-reduce-bedroom-noise-for-better-sleep"
+        className="rounded-2xl bg-white p-5 shadow-sm transition hover:shadow-md"
+      >
+        <h3 className="font-semibold">
+          Bedroom Noise
+        </h3>
+        <p className="mt-2 text-sm leading-6 text-zinc-600">
+          Explore simple ways to reduce nighttime sound disruptions.
+        </p>
+      </Link>
+
+      <Link
+        href="/guides/how-to-improve-bedroom-airflow-for-sleep"
+        className="rounded-2xl bg-white p-5 shadow-sm transition hover:shadow-md"
+      >
+        <h3 className="font-semibold">
+          Bedroom Airflow
+        </h3>
+        <p className="mt-2 text-sm leading-6 text-zinc-600">
+          Improve air movement and make your room feel more comfortable.
+        </p>
+      </Link>
+    </div>
+  </div>
+</section>
 
       <section className="mx-auto max-w-6xl px-6 pb-24">
         <div className="flex items-end justify-between gap-6">

@@ -46,9 +46,12 @@ const relatedGuides = getAllGuides()
       guide.keywords.includes(keyword)
     );
 
+    const categoryScore =
+      relatedGuide.category === guide.category ? 2 : 0;
+
     return {
       ...relatedGuide,
-      score: sharedKeywords.length,
+      score: sharedKeywords.length + categoryScore,
     };
   })
   .sort((a, b) => b.score - a.score)

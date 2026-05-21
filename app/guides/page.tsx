@@ -7,7 +7,25 @@ export default function GuidesPage() {
 const categories = Array.from(
   new Set(guides.map((guide) => guide.category))
 );
+const categoryDescriptions: Record<string, string> = {
+  "Temperature & Cooling":
+    "Cooling strategies, bedroom temperature optimization, and hot sleep solutions.",
 
+  "Darkness & Light":
+    "Sleep masks, blackout curtains, and bedroom light reduction strategies.",
+
+  "Noise & Sound":
+    "White noise, earplugs, noisy neighbors, and reducing sleep disruptions.",
+
+  "Airflow & Air Quality":
+    "Bedroom airflow, humidity balance, air purifiers, and cleaner sleep environments.",
+
+  "Bedding & Comfort":
+    "Cooling bedding, breathable sheets, pillows, and nighttime comfort improvements.",
+
+  "Sleep Habits":
+    "Natural sleep improvement habits, routines, and better nighttime behaviors.",
+};
   return (
     <main className="mx-auto max-w-5xl px-6 py-20">
       <div className="max-w-2xl">
@@ -95,13 +113,19 @@ const categories = Array.from(
     return (
       <section key={category}>
         <div className="flex items-center justify-between gap-4">
-          <h2 className="text-3xl font-bold tracking-tight">
-            {category}
-          </h2>
+          <div>
+  <h2 className="text-3xl font-bold tracking-tight">
+    {category}
+  </h2>
 
-          <span className="text-sm text-zinc-500">
-            {categoryGuides.length} guides
-          </span>
+  <p className="mt-3 max-w-2xl text-zinc-600">
+    {categoryDescriptions[category]}
+  </p>
+</div>
+
+<span className="text-sm text-zinc-500">
+  {categoryGuides.length} guides
+</span>
         </div>
 
         <div className="mt-8 grid gap-8 md:grid-cols-2">

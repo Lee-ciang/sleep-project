@@ -76,6 +76,20 @@ Examples include:
 
 Reducing these small light sources can make the bedroom feel calmer and darker.
 
+## Frequently Asked Questions
+
+### Can a bright bedroom affect sleep quality?
+
+Yes. Bright light exposure during the evening and nighttime may make it more difficult to relax and maintain a comfortable sleep environment.
+
+### Are blackout curtains better than regular curtains?
+
+Blackout curtains are designed to block significantly more outside light than standard curtains and are often more effective for creating a darker bedroom.
+
+### Do sleep masks really help?
+
+Many people find sleep masks helpful, especially when outside light, travel conditions, or shared sleeping spaces make complete darkness difficult.
+
 ## Final Thoughts
 
 A darker bedroom is one of the simplest ways to improve sleep comfort naturally.

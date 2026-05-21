@@ -35,6 +35,12 @@ However, personal comfort also matters. Some people may prefer slightly warmer o
 
 ## Tips to Keep Your Bedroom Cool
 
+## Why Is My Bedroom Still Hot at Night?
+
+Bedrooms can stay warm at night for several reasons, including poor airflow, trapped heat from electronics, heavy bedding, or lack of ventilation.
+
+Simple improvements like using a fan, opening windows at cooler times of day, or switching to breathable bedding can help reduce heat buildup and improve sleep comfort.
+
 ## Fan vs Air Conditioning for Sleep
 
 Fans improve airflow and can help bedrooms feel cooler without lowering room temperature significantly. Air conditioning lowers the actual temperature of the room and is often more effective during hot weather.

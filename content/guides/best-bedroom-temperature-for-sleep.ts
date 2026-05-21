@@ -43,6 +43,20 @@ Here are simple ways to improve your sleep environment:
 - Lower thermostat temperature before bedtime
 - Avoid heavy blankets
 
+## Frequently Asked Questions
+
+### What temperature is too hot for sleeping?
+
+Most people begin experiencing sleep discomfort when bedroom temperatures rise above 70°F (21°C). Warm bedrooms can increase nighttime waking and reduce sleep quality.
+
+### Is 68°F too cold for sleep?
+
+No. For many adults, 68°F is still within a comfortable sleep temperature range. Personal preference, bedding, and humidity levels also affect comfort.
+
+### Does sleeping in a cooler room improve sleep quality?
+
+Cooler bedrooms often help people fall asleep faster and stay asleep longer because the body naturally lowers its temperature before sleep.
+
 ## Final Thoughts
 
 Bedroom temperature is a foundational part of sleep optimization. Even small temperature improvements can significantly improve sleep quality over time.

@@ -35,6 +35,12 @@ However, personal comfort also matters. Some people may prefer slightly warmer o
 
 ## Tips to Keep Your Bedroom Cool
 
+## Fan vs Air Conditioning for Sleep
+
+Fans improve airflow and can help bedrooms feel cooler without lowering room temperature significantly. Air conditioning lowers the actual temperature of the room and is often more effective during hot weather.
+
+For many people, combining light airflow from a fan with moderate air conditioning creates the most comfortable sleep environment.
+
 Here are simple ways to improve your sleep environment:
 
 - Use blackout curtains

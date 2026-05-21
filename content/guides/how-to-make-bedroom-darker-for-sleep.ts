@@ -54,6 +54,14 @@ Lower light exposure supports natural melatonin production.
 
 ## Consider A Sleep Mask
 
+## Sleep Masks vs Blackout Curtains
+
+Both sleep masks and blackout curtains can help create a darker sleep environment.
+
+Blackout curtains reduce outside light for the entire bedroom and may improve overall room darkness. Sleep masks block light directly around the eyes and can be useful when traveling or sleeping in shared spaces.
+
+Many people use both solutions together for maximum darkness and sleep comfort.
+
 Sleep masks can provide additional darkness and may be especially helpful for:
 
 - Travel

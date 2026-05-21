@@ -20,7 +20,7 @@ import { guide as noisyNeighborsGuide } from "@/content/guides/how-to-sleep-with
 import { guide as hotBedroomGuide } from "@/content/guides/how-to-sleep-in-a-hot-bedroom";
 import { guide as coldBedroomGuide } from "@/content/guides/how-to-sleep-in-a-cold-bedroom";
 import { guide as stuffyAirGuide } from "@/content/guides/how-to-reduce-stuffy-air-in-bedroom";
-
+import { guide as airPurifierVsFanGuide } from "@/content/guides/air-purifier-vs-fan-for-sleep";
 
 export type Guide = {
   slug: string;
@@ -55,6 +55,7 @@ export const guides: Guide[] = [
   hotBedroomGuide,
   coldBedroomGuide,
   stuffyAirGuide,
+  airPurifierVsFanGuide,
 ];
 
 export function getAllGuides() {

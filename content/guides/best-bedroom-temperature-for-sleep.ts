@@ -35,6 +35,14 @@ However, personal comfort also matters. Some people may prefer slightly warmer o
 
 ## Tips to Keep Your Bedroom Cool
 
+Here are simple ways to improve your sleep environment:
+
+- Use blackout curtains
+- Improve airflow with a fan
+- Choose breathable bedding
+- Lower thermostat temperature before bedtime
+- Avoid heavy blankets
+
 ## Why Is My Bedroom Still Hot at Night?
 
 Bedrooms can stay warm at night for several reasons, including poor airflow, trapped heat from electronics, heavy bedding, or lack of ventilation.
@@ -47,13 +55,6 @@ Fans improve airflow and can help bedrooms feel cooler without lowering room tem
 
 For many people, combining light airflow from a fan with moderate air conditioning creates the most comfortable sleep environment.
 
-Here are simple ways to improve your sleep environment:
-
-- Use blackout curtains
-- Improve airflow with a fan
-- Choose breathable bedding
-- Lower thermostat temperature before bedtime
-- Avoid heavy blankets
 
 ## Frequently Asked Questions
 

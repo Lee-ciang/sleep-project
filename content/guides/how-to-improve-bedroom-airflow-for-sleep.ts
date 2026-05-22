@@ -33,6 +33,8 @@ For many people, improved airflow creates a calmer sleep environment.
 
 You may improve airflow by:
 
+If your bedroom feels stale or uncomfortable, see [How To Reduce Stuffy Air In Bedroom](/guides/how-to-reduce-stuffy-air-in-bedroom) for additional solutions.
+
 - Using a bedroom fan
 - Opening windows when possible
 - Keeping air vents unobstructed
@@ -45,6 +47,8 @@ Even small airflow improvements may increase bedroom comfort.
 
 Fans may help improve air movement and reduce warm air buildup.
 
+If you are choosing between different fan types, see [Best Fans For Sleeping Comfortably](/guides/best-fans-for-sleeping-comfortably).
+
 Tower fans and oscillating fans are popular options for bedroom airflow because they can circulate air more evenly throughout the room.
 
 Quiet fans are especially helpful for people who are sensitive to nighttime noise.
@@ -53,9 +57,11 @@ Quiet fans are especially helpful for people who are sensitive to nighttime nois
 
 Better airflow often works best alongside:
 
+Good ventilation is also important. See [Best Bedroom Ventilation For Sleep](/guides/best-bedroom-ventilation-for-sleep) for additional airflow strategies.
+
 - Cooler bedroom temperatures
 - Balanced humidity
-- Air purifiers
+- Air purifiers ([Best Air Purifiers For Better Sleep](/guides/best-air-purifiers-for-better-sleep))
 - Breathable sheets
 - Cooling pillows
 

@@ -44,11 +44,11 @@ Your bedroom environment plays a major role in sleep quality.
 
 Focus on:
 
-- Cooler bedroom temperature
+- Cooler bedroom temperature ([Best Bedroom Temperature for Sleep](/guides/best-bedroom-temperature-for-sleep))
 - Comfortable bedding
-- Reduced noise
-- Darkness and blackout curtains
-- Better airflow
+- Reduced noise ([How To Reduce Bedroom Noise For Better Sleep](/guides/how-to-reduce-bedroom-noise-for-better-sleep))
+- Darkness and blackout curtains ([How To Make A Bedroom Darker For Better Sleep](/guides/how-to-make-bedroom-darker-for-sleep))
+- Better airflow ([How To Improve Bedroom Airflow For Sleep](/guides/how-to-improve-bedroom-airflow-for-sleep))
 
 A calm and comfortable sleep setup can improve both sleep depth and recovery.
 

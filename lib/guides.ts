@@ -23,6 +23,7 @@ import { guide as stuffyAirGuide } from "@/content/guides/how-to-reduce-stuffy-a
 import { guide as airPurifierVsFanGuide } from "@/content/guides/air-purifier-vs-fan-for-sleep";
 import { guide as bedroomVentilationGuide } from "@/content/guides/best-bedroom-ventilation-for-sleep";
 import { guide as blockWindowLightGuide } from "@/content/guides/how-to-block-light-from-bedroom-window";
+import { guide as brightRoomGuide } from "@/content/guides/how-to-sleep-when-your-room-is-too-bright";
 
 
 export type Guide = {
@@ -61,6 +62,7 @@ export const guides: Guide[] = [
   airPurifierVsFanGuide,
   bedroomVentilationGuide,
   blockWindowLightGuide,
+  brightRoomGuide,
 ];
 
 export function getAllGuides() {

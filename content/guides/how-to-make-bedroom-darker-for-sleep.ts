@@ -30,6 +30,7 @@ A darker sleep environment may help with:
 
 Blackout curtains are one of the most effective ways to reduce outside light.
 
+If outside light enters through your windows, see [How To Block Light From A Bedroom Window](/guides/how-to-block-light-from-bedroom-window) for additional strategies.
 They can help block:
 
 - Street lights
@@ -56,6 +57,8 @@ Lower light exposure supports natural melatonin production.
 
 Sleep masks can provide additional darkness and may be especially helpful for:
 
+If your room remains bright at night, see [How To Sleep When Your Room Is Too Bright](/guides/how-to-sleep-when-your-room-is-too-bright) for additional solutions.
+
 - Travel
 - Shift workers
 - Bright apartments
@@ -66,6 +69,8 @@ Comfortable sleep masks are often a simple and low-cost sleep improvement.
 ## Sleep Masks vs Blackout Curtains
 
 Both sleep masks and blackout curtains can help create a darker sleep environment.
+
+If blackout curtains are not available, see [How To Make A Room Dark Without Blackout Curtains](/guides/how-to-make-room-dark-without-blackout-curtains) for alternative approaches.
 
 Blackout curtains reduce outside light for the entire bedroom and may improve overall room darkness. Sleep masks block light directly around the eyes and can be useful when traveling or sleeping in shared spaces.
 

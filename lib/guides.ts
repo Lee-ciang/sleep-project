@@ -26,6 +26,8 @@ import { guide as blockWindowLightGuide } from "@/content/guides/how-to-block-li
 import { guide as brightRoomGuide } from "@/content/guides/how-to-sleep-when-your-room-is-too-bright";
 import { guide as outsideNoiseGuide } from "@/content/guides/how-to-block-outside-noise-in-bedroom";
 import { guide as trafficNoiseGuide } from "@/content/guides/how-to-sleep-with-traffic-noise";
+import { guide as loudNeighborsGuide } from "@/content/guides/how-to-sleep-through-loud-neighbors";
+
 
 export type Guide = {
   slug: string;
@@ -66,6 +68,7 @@ export const guides: Guide[] = [
   brightRoomGuide,
   outsideNoiseGuide,
   trafficNoiseGuide,
+  loudNeighborsGuide,
 ];
 
 export function getAllGuides() {

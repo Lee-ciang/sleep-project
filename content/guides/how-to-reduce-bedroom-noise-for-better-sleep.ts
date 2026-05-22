@@ -37,11 +37,15 @@ You may reduce bedroom noise by:
 - Using white noise machines
 - Rearranging noisy electronics
 
+If outside sounds are the main problem, see [How To Block Outside Noise In A Bedroom](/guides/how-to-block-outside-noise-in-bedroom).
+
 Even small changes may help reduce distractions during sleep.
 
 ## Use White Noise Strategically
 
 White noise machines and fans may help mask sudden sounds and create a more consistent background noise environment.
+
+If traffic sounds regularly disturb your sleep, see [How To Sleep With Traffic Noise](/guides/how-to-sleep-with-traffic-noise).
 
 Many people find steady sound more relaxing than unpredictable noise interruptions.
 
@@ -50,6 +54,8 @@ Quiet airflow devices may also improve overall bedroom comfort.
 ## Earplugs vs White Noise Machines
 
 Both earplugs and white noise machines can help reduce the impact of unwanted sounds during sleep.
+
+People dealing with apartment or neighborhood noise may also find helpful strategies in [How To Sleep Through Loud Neighbors](/guides/how-to-sleep-through-loud-neighbors).
 
 Earplugs reduce the amount of sound reaching the ears, while white noise machines help mask sudden noises with a consistent background sound.
 

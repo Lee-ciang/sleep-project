@@ -64,7 +64,7 @@ const categoryDescriptions: Record<string, string> = {
 
         <div className="mt-8 grid gap-4 md:grid-cols-2">
           <Link
-            href="/guides/how-to-sleep-in-a-hot-bedroom"
+            href="/guides/best-bedroom-temperature-for-sleep"
             className="rounded-2xl bg-white p-5 shadow-sm transition hover:shadow-md"
           >
             <h3 className="font-semibold">Temperature & Cooling</h3>

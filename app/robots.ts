@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://sleep-project.vercel.app/sitemap.xml",
+    sitemap: "https://sleep-project-khaki.vercel.app/sitemap.xml",
   };
 }

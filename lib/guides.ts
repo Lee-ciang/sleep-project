@@ -1,5 +1,6 @@
 ﻿import { guide as bedroomTemperatureGuide } from "@/content/guides/best-bedroom-temperature-for-sleep";
 import { guide as coolBedroomWithoutAcGuide } from "@/content/guides/how-to-cool-a-bedroom-without-air-conditioning";
+import { guide as heatWaveGuide } from "@/content/guides/how-to-sleep-during-a-heat-wave";
 
 import { guide as naturalSleepGuide } from "@/content/guides/how-to-sleep-better-naturally";
 import { guide as darkerBedroomGuide } from "@/content/guides/how-to-make-bedroom-darker-for-sleep";
@@ -46,6 +47,7 @@ export type Guide = {
 export const guides: Guide[] = [
   bedroomTemperatureGuide,
   coolBedroomWithoutAcGuide,
+  heatWaveGuide,
   naturalSleepGuide,
   darkerBedroomGuide,
   blackoutCurtainsGuide,
@@ -84,3 +86,4 @@ export function getAllGuides() {
 export function getGuideBySlug(slug: string) {
   return guides.find((guide) => guide.slug === slug);
 }
+

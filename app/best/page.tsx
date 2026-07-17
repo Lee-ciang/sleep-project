@@ -1,7 +1,17 @@
-export const metadata = {
+﻿import type { Metadata } from "next";
+export const metadata: Metadata = {
   title: "Best Sleep Products",
   description:
     "Discover the best sleep products for comfort, relaxation, and better sleep quality.",
+  alternates: {
+    canonical: "/best",
+  },
+  openGraph: {
+    title: "Best Sleep Products",
+    description:
+      "Discover the best sleep products for comfort, relaxation, and better sleep quality.",
+    url: "/best",
+  },
 };
 
 export default function BestPage() {

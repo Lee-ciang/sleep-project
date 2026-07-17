@@ -1,5 +1,21 @@
+﻿import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllGuides } from "@/lib/guides";
+
+export const metadata: Metadata = {
+  title: "Sleep Guides",
+  description:
+    "Explore practical sleep improvement guides, bedroom optimization tips, and better sleep environment strategies.",
+  alternates: {
+    canonical: "/guides",
+  },
+  openGraph: {
+    title: "Sleep Guides",
+    description:
+      "Explore practical sleep improvement guides, bedroom optimization tips, and better sleep environment strategies.",
+    url: "/guides",
+  },
+};
 
 export default function GuidesPage() {
   const guides = getAllGuides();

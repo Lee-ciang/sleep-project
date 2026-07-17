@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+﻿import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -23,16 +23,20 @@ export const metadata: Metadata = {
     "sleep guides",
   ],
 
-  metadataBase: new URL("https://sleep-project.vercel.app"),
+  metadataBase: new URL("https://sleep-project-khaki.vercel.app"),
 
   openGraph: {
     title: "Sleep Project",
     description:
       "Improve sleep quality with better sleep environments and practical sleep guides.",
-    url: "https://sleep-project.vercel.app",
+    url: "https://sleep-project-khaki.vercel.app",
     siteName: "Sleep Project",
     locale: "en_US",
     type: "website",
+  },
+
+  alternates: {
+    canonical: "/",
   },
 
   robots: {

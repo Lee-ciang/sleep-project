@@ -1,6 +1,17 @@
+﻿import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllGuides } from "@/lib/guides";
 
+export const metadata: Metadata = {
+  title: {
+    absolute: "Sleep Project",
+  },
+  description:
+    "Sleep Project helps you improve sleep quality through better sleep environments, bedroom optimization, sleep products, and practical sleep guides.",
+  alternates: {
+    canonical: "/",
+  },
+};
 export default function Home() {
   const guides = getAllGuides()
   .sort(
@@ -229,7 +240,7 @@ export default function Home() {
     day: "numeric",
     year: "numeric",
   })}
-  {" • "}
+  {" 鈥?"}
   {guide.readingTime}
 </p>
             </Link>
@@ -239,3 +250,4 @@ export default function Home() {
     </main>
   );
 }
+

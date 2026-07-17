@@ -1,4 +1,5 @@
-﻿import Link from "next/link";
+﻿import type { Metadata } from "next";
+import Link from "next/link";
 import { getAllGuides, getGuideBySlug } from "@/lib/guides";
 import ReactMarkdown from "react-markdown";
 import { notFound } from "next/navigation";
@@ -16,7 +17,9 @@ export function generateStaticParams() {
   }));
 }
 
-export async function generateMetadata({ params }: GuidePageProps) {
+export async function generateMetadata({
+  params,
+}: GuidePageProps): Promise<Metadata> {
   const { slug } = await params;
   const guide = getGuideBySlug(slug);
 
@@ -29,9 +32,22 @@ export async function generateMetadata({ params }: GuidePageProps) {
   return {
     title: guide.title,
     description: guide.description,
+    alternates: {
+      canonical: `/guides/${guide.slug}`,
+    },
+    openGraph: {
+      title: guide.title,
+      description: guide.description,
+      url: `/guides/${guide.slug}`,
+      type: "article",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: guide.title,
+      description: guide.description,
+    },
   };
 }
-
 export default async function GuidePage({ params }: GuidePageProps) {
   const { slug } = await params;
   const guide = getGuideBySlug(slug);
@@ -213,3 +229,4 @@ const relatedGuides = getAllGuides()
     </main>
   );
 }
+

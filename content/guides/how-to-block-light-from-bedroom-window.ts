@@ -1,4 +1,4 @@
-export const guide = {
+﻿export const guide = {
   slug: "how-to-block-light-from-bedroom-window",
 
   title: "How To Block Light From A Bedroom Window",
@@ -63,7 +63,7 @@ They may be especially useful for:
 - Apartments with outdoor lighting
 - Early sunrise conditions
 
-Some people combine sleep masks with blackout curtains for maximum darkness.
+Some people combine sleep masks with blackout curtains for maximum darkness. If you sleep mostly on your side, compare fit details in [best sleep masks for side sleepers](/guides/best-sleep-masks-for-side-sleepers) before choosing a mask.
 
 ## Frequently Asked Questions
 

@@ -1,4 +1,4 @@
-export const guide = {
+﻿export const guide = {
   slug: "how-to-sleep-when-your-room-is-too-bright",
 
   title: "How To Sleep When Your Room Is Too Bright",
@@ -63,7 +63,7 @@ They may be useful for:
 - Apartments with outdoor lighting
 - Bedrooms where complete darkness is difficult to achieve
 
-Many people combine sleep masks with blackout curtains.
+Many people combine sleep masks with blackout curtains. Side sleepers may need a lower-profile mask that blocks light without pressing into the face; see [best sleep masks for side sleepers](/guides/best-sleep-masks-for-side-sleepers) for fit criteria.
 
 ## Frequently Asked Questions
 

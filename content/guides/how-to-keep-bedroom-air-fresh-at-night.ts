@@ -1,4 +1,4 @@
-export const guide = {
+﻿export const guide = {
   slug: "how-to-keep-bedroom-air-fresh-at-night",
 
   title: "How To Keep Bedroom Air Fresh At Night",
@@ -52,7 +52,7 @@ Many people use air purifiers to:
 - Improve room freshness
 - Support overall bedroom comfort
 
-Air purifiers are often combined with good ventilation for the best results.
+Air purifiers are often combined with good ventilation for the best results. For bedroom-specific selection criteria, see [best air purifiers for better sleep](/guides/best-air-purifiers-for-better-sleep).
 
 ## Reduce Sources Of Stale Air
 

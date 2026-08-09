@@ -1,4 +1,4 @@
-export const guide = {
+﻿export const guide = {
   slug: "best-cooling-blankets-for-hot-sleepers",
 
   title: "Best Cooling Blankets For Hot Sleepers",
@@ -39,7 +39,7 @@ Popular cooling blanket materials include:
 - Lightweight microfiber
 - Cooling performance fabrics
 
-These materials often help improve airflow and reduce trapped heat.
+These materials often help improve airflow and reduce trapped heat. The sheet layer matters too, so compare [breathable sheets for better sleep](/guides/best-breathable-sheets-for-better-sleep) if the bed still feels warm under a cooling blanket.
 
 ## Lightweight vs Weighted Cooling Blankets
 
@@ -78,3 +78,4 @@ Choosing breathable materials and improving bedroom airflow may help create a co
   readingTime: "4 min read",
   category: "Temperature & Cooling",
 };
+

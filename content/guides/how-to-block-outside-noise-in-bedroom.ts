@@ -48,7 +48,7 @@ Popular options include:
 - Oscillating fans
 - Air purifiers
 
-Consistent sound may help create a more relaxing sleep environment.
+Consistent sound may help create a more relaxing sleep environment. If the main goal is getting through the night despite disruptive sound, see [how to sleep through loud neighbors](/guides/how-to-sleep-through-loud-neighbors) for a broader sleep-through-noise plan.
 
 ## Consider Earplugs For Sleep
 

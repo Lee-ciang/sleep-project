@@ -11,7 +11,7 @@ export const guide = {
 
 Earplugs can help reduce unwanted nighttime noise and create a quieter sleep environment.
 
-Many people use earplugs to block sounds such as snoring, traffic, noisy neighbors, or general background noise during sleep.
+Many people use earplugs to block sounds such as snoring, traffic, noisy neighbors, or general background noise during sleep. For a broader plan beyond earplugs, see [how to sleep through loud neighbors](/guides/how-to-sleep-through-loud-neighbors).
 
 ## Why Earplugs May Improve Sleep Comfort
 

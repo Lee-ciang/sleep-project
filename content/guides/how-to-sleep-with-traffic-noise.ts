@@ -43,7 +43,7 @@ Even small changes may help reduce sound distractions.
 
 ## Use White Noise To Mask Traffic Sounds
 
-White noise machines and fans may help make traffic sounds less noticeable.
+White noise machines and fans may help make traffic sounds less noticeable. For choosing a dedicated masking device, see [best white noise machines for sleep](/guides/best-white-noise-machines-for-sleep).
 
 Many people find that a steady background sound feels more relaxing than unpredictable road noise.
 

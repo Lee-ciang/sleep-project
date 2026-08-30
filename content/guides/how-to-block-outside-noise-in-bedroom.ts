@@ -37,7 +37,7 @@ Some people also use heavier curtains to help soften sound entering the room.
 
 ## Use White Noise To Mask Sounds
 
-White noise machines and fans may help reduce the impact of sudden outdoor noises.
+White noise machines and fans may help reduce the impact of sudden outdoor noises. For machine-specific selection and setup, see [best white noise machines for sleep](/guides/best-white-noise-machines-for-sleep).
 
 Many people find that steady background sound feels less distracting than unpredictable interruptions.
 
@@ -94,3 +94,4 @@ Small improvements may help create a quieter and more comfortable bedroom over t
   readingTime: "4 min read",
   category: "Noise & Sound",
 };
+

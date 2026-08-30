@@ -50,7 +50,7 @@ The best option depends on personal comfort preferences and sleeping position.
 
 Earplugs often work best alongside:
 
-- White noise machines
+- [White noise machines](/guides/best-white-noise-machines-for-sleep)
 - Blackout curtains
 - Bedroom fans
 - Better airflow
@@ -75,3 +75,4 @@ Choosing comfortable earplugs and reducing environmental noise may help support 
   readingTime: "4 min read",
   category: "Noise & Sound",
 };
+

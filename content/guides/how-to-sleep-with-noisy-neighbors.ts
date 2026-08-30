@@ -29,7 +29,7 @@ For many people, reducing noise distractions improves overall nighttime comfort.
 
 ## Use White Noise To Mask Distractions
 
-White noise machines and fans may help mask sudden sounds and create more consistent background noise.
+White noise machines and fans may help mask sudden sounds and create more consistent background noise. For device-specific guidance, see [best white noise machines for sleep](/guides/best-white-noise-machines-for-sleep).
 
 Many people find steady sound less distracting than unpredictable noise interruptions.
 

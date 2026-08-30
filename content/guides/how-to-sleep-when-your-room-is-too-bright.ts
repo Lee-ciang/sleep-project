@@ -1,4 +1,4 @@
-﻿export const guide = {
+export const guide = {
   slug: "how-to-sleep-when-your-room-is-too-bright",
 
   title: "How To Sleep When Your Room Is Too Bright",
@@ -28,7 +28,7 @@ Reducing light exposure may help create a more sleep-friendly environment.
 
 ## Block Outside Light Sources
 
-Outside light is often one of the biggest causes of bedroom brightness.
+Outside light is often one of the biggest causes of bedroom brightness. If the brightness is coming through a window, see [how to block light from a bedroom window](/guides/how-to-block-light-from-bedroom-window).
 
 Common sources include:
 
@@ -96,3 +96,5 @@ Combining blackout curtains, sleep masks, and better light control may help crea
   readingTime: "4 min read",
   category: "Darkness & Light",
 };
+
+

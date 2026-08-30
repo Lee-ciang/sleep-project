@@ -36,7 +36,7 @@ When choosing blackout curtains for sleep, consider:
 - Thermal insulation
 - Easy installation
 
-Good blackout curtains should create a darker and more relaxing bedroom atmosphere.
+Good blackout curtains should create a darker and more relaxing bedroom atmosphere. For broader window-specific methods beyond curtain selection, see [how to block light from a bedroom window](/guides/how-to-block-light-from-bedroom-window).
 
 ## Bedroom Environment Benefits
 
@@ -78,3 +78,4 @@ Blackout curtains are often a practical long-term investment for building a bett
     readingTime: "4 min read",
     category: "Darkness & Light",
 };
+

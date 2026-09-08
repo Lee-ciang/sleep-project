@@ -1,4 +1,4 @@
-﻿import { guide as bedroomTemperatureGuide } from "@/content/guides/best-bedroom-temperature-for-sleep";
+import { guide as bedroomTemperatureGuide } from "@/content/guides/best-bedroom-temperature-for-sleep";
 import { guide as coolBedroomWithoutAcGuide } from "@/content/guides/how-to-cool-a-bedroom-without-air-conditioning";
 import { guide as heatWaveGuide } from "@/content/guides/how-to-sleep-during-a-heat-wave";
 
@@ -23,6 +23,7 @@ import { guide as hotBedroomGuide } from "@/content/guides/how-to-sleep-in-a-hot
 import { guide as coldBedroomGuide } from "@/content/guides/how-to-sleep-in-a-cold-bedroom";
 import { guide as stuffyAirGuide } from "@/content/guides/how-to-reduce-stuffy-air-in-bedroom";
 import { guide as airPurifierVsFanGuide } from "@/content/guides/air-purifier-vs-fan-for-sleep";
+import { guide as airPurifierVsHumidifierGuide } from "@/content/guides/air-purifier-vs-humidifier-for-sleep";
 import { guide as bedroomVentilationGuide } from "@/content/guides/best-bedroom-ventilation-for-sleep";
 import { guide as blockWindowLightGuide } from "@/content/guides/how-to-block-light-from-bedroom-window";
 import { guide as brightRoomGuide } from "@/content/guides/how-to-sleep-when-your-room-is-too-bright";
@@ -69,6 +70,7 @@ export const guides: Guide[] = [
   coldBedroomGuide,
   stuffyAirGuide,
   airPurifierVsFanGuide,
+  airPurifierVsHumidifierGuide,
   bedroomVentilationGuide,
   blockWindowLightGuide,
   brightRoomGuide,
@@ -86,4 +88,6 @@ export function getAllGuides() {
 export function getGuideBySlug(slug: string) {
   return guides.find((guide) => guide.slug === slug);
 }
+
+
 

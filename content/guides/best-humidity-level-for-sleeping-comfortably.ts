@@ -54,7 +54,7 @@ You may improve bedroom comfort by:
 - Using breathable bedding
 - Monitoring indoor humidity levels
 
-Small adjustments may improve overall nighttime comfort.
+Small adjustments may improve overall nighttime comfort. If you are deciding whether the room needs filtration or added moisture, compare [air purifier vs humidifier for sleep](/guides/air-purifier-vs-humidifier-for-sleep).
 
 ## Improve Your Entire Sleep Environment
 

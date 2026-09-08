@@ -1,4 +1,4 @@
-﻿export const guide = {
+export const guide = {
   slug: "best-air-purifiers-for-better-sleep",
 
   title: "Best Air Purifiers For Better Sleep",
@@ -99,7 +99,7 @@ For the full comparison, read [air purifier vs fan for sleep](/guides/air-purifi
 
 An air purifier may be useful when the bedroom has airborne particles, visible dust buildup, pet-related particles, smoke particles, lingering odors, or a general desire for filtered recirculated air. It can also be helpful when opening a window is not practical because of outdoor noise, weather, smoke, humidity, or other comfort concerns.
 
-An air purifier does not meaningfully ventilate a closed bedroom. It does not bring in fresh outdoor air. It does not function primarily as an air conditioner. It does not solve humidity problems by itself. If the room feels damp or dry, use [best humidity level for sleeping comfortably](/guides/best-humidity-level-for-sleeping-comfortably). If the room feels stale, pair filtration with [how to keep bedroom air fresh at night](/guides/how-to-keep-bedroom-air-fresh-at-night).
+An air purifier does not meaningfully ventilate a closed bedroom. It does not bring in fresh outdoor air. It does not function primarily as an air conditioner. It does not solve humidity problems by itself. If you are comparing filtration with added moisture, see [air purifier vs humidifier for sleep](/guides/air-purifier-vs-humidifier-for-sleep). If the room feels damp or dry, use [best humidity level for sleeping comfortably](/guides/best-humidity-level-for-sleeping-comfortably). If the room feels stale, pair filtration with [how to keep bedroom air fresh at night](/guides/how-to-keep-bedroom-air-fresh-at-night).
 
 ## Air Purifier Checklist For Sleep
 
@@ -163,3 +163,4 @@ For the strongest sleep environment, match the tool to the problem. Use an air p
   readingTime: "7 min read",
   category: "Airflow & Air Quality",
 };
+

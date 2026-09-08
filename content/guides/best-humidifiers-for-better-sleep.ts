@@ -49,6 +49,8 @@ Both options may improve bedroom comfort depending on personal preference and cl
 
 ## Improve Your Entire Sleep Environment
 
+Humidifiers often work best when you understand whether the room needs moisture, filtration, or both. If you are deciding between devices, see [air purifier vs humidifier for sleep](/guides/air-purifier-vs-humidifier-for-sleep).
+
 Humidifiers often work best alongside:
 
 - Balanced bedroom temperatures
@@ -76,3 +78,4 @@ Choosing a quiet and appropriately sized humidifier may help create a more relax
   readingTime: "4 min read",
   category: "Airflow & Air Quality",
 };
+
